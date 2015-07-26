@@ -29,7 +29,7 @@ the community works to fill that gap.
 
 ## Packages
 
-### Controllers, robotics, etc
+### Controllers
 * [gobot](http://gobot.io/) - High level Go package with a variety of platform APIs to talk to popular drivers such as GPIO on Arduino and Raspberry Pi, Leap Motion or Pebble.
 * [go-gpio](https://github.com/stianeikeland/go-rpio) - GPIO for Go, doesn't require cgo.
 * [embd](http://embd.io/) - Embedded programming framework for Go.
@@ -62,6 +62,8 @@ the community works to fill that gap.
 * [serial] (https://github.com/tarm/serial) - Serial Port Communication Package for Go
 
 ### Mobile
+
+TODO
 
 Contributions are welcome, please fork and open a PR if you see
 a missing package, tutorial, etc.
